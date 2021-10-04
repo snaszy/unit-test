@@ -1,0 +1,22 @@
+{
+  "name": "unit-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "array-analysis.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snaszy/unit-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snaszy/unit-test/issues"
+  },
+  "homepage": "https://github.com/snaszy/unit-test#readme",
+  "devDependencies": {
+    "jest": "^27.2.4"
+  }
+}
