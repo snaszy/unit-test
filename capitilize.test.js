@@ -11,3 +11,5 @@ it('Capitilize first letter in upper case word', () => {
 it('Capitilize first letter in mixed case word', () => {
     expect(capitilize('aBcD')).toBe('Abcd')
 });
+
+
